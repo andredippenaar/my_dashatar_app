@@ -5,7 +5,7 @@ void main() {
     MaterialApp(
       debugShowCheckedModeBanner: false,
       home: Center(
-        child: Text("Hello Andre"),
+        child: Text("Hello World"),
       ),
     ),
   );
